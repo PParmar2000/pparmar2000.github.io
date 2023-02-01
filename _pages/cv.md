@@ -11,23 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.A. (Hons. in Geography), Delhi University, 2018-2021
-* M.Sc. in Applied GIS, University of Sheffield, 2022-23
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Part time work at Automatic Knowledge 2023
-  * Data filteration and management alongside Consultancy work with GIS analysis
+* Summer 2015: Research Assistant
+  * Github University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Git
 
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
   
 Skills
 ======
-* Data Management
-* GIS Analysis
-  * Terrain Mapping
-  * Raster Analysis
-  * 
-* R analysis
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
 
 Publications
 ======
@@ -49,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Provided services for data management in Automatic Knowledge ltd. under Alasdair Rae
+* Currently signed in to 43 different slack teams
